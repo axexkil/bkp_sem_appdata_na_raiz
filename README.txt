@@ -11,6 +11,6 @@
 
 OBS:Esta versão não pega app data de winxp, gera o arquivo.7z que pode ser aberto pelo 7z e o backup do email esta melhor.
 
-@João Vitor Rocha
+@AxexKill
 @Rommeu Ruella
 
